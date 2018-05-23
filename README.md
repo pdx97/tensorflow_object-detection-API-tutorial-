@@ -3,16 +3,16 @@ This is a  tensorflow object detection API which uses MS coco data set.
  # Dependencies
 Tensorflow Object Detection API depends on the following libraries:
 
-Protobuf 3+
-Python-tk
-Pillow 1.0
-lxml
-tf Slim (which is included in the "tensorflow/models/research/" checkout)
-Jupyter notebook
-Matplotlib
-Tensorflow
-Cython
-cocoapi
+Protobuf 3+,
+Python-tk, 
+Pillow 1.0,
+lxml,
+tf Slim (which is included in the "tensorflow/models/research/" checkout),
+Jupyter notebook,
+Matplotlib,
+Tensorflow,
+Cython,
+cocoapi .
 
 # For CPU
 pip install tensorflow
